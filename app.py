@@ -7,6 +7,7 @@
 # 2. **One-Time Bonus Check:** Enter `$2,000` in **One-Time Bonus (\$)** and verify that it adds `$2,000` to your current paycheck's Gross Pay (taxed at `22%` federal supplemental rate) while keeping the **Projected Full-Year Summary** cleanly anchored to your recurring base pay.
 
 #Designed by Rodney Smith 11/14/2026
+import csv
 import io
 from dataclasses import asdict
 from typing import List
